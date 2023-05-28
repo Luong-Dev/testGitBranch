@@ -1,1 +1,1 @@
-console.log("Đây là chức năng hiển thị sản phẩm")
+var a = "Hiển thị sản phẩm";
